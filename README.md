@@ -1,7 +1,5 @@
-##** Before Starting This Task**
-
 ## **Project #2: Human vs. Bot Game**
-Goal: Create a two-player game (a user against a computer) in which the user interacts with the console *or* with a Turtle window. The computer can either play/make moves at random or incorporate some sort of strategy.
+**Goal:** Create a two-player game (a user against a computer) in which the user interacts with the console *or* with a Turtle window. The computer can either play/make moves at random or incorporate some sort of strategy.
 
 ### **Step 1: Choose a game.**
 
