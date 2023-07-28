@@ -12,6 +12,8 @@ Some suggestions looked into:
 
 ### **Step 2: Plan the game.**
 
+My game is a simple version of the classic game Snakes and Ladders where a human player competes against a computer-controlled opponent. At the start of the game, both the player and the computer are at the starting point. The game is turn-based, with the human player and computer alternately rolling a die (simulated by generating a random number from 1 to 6) to determine how many squares they can advance. The excitement and unpredictability of the game come mainly from the snakes and ladders. If any player, human or computer, lands on a square with the bottom of a ladder, they move up to a higher square where the ladder ends. On the other hand, if they land on a square with a snake's head, they slide back down to a lower square, which marks the snake's tail. The winner is the first player to arrive precisely at the 100th square. However, the catch is that landing exactly on the 100th square is a must; overshooting due to a larger dice roll leads to a turn being forfeited. The game is primarily built using Python’s turtle module for graphics and the random module to simulate dice rolls. 
+
 Answered the following questions.
 
 1. How does my game work?
